@@ -1,0 +1,5 @@
+Feature,Abstract Class,Interface
+Methods,Can have both abstract and concrete methods,Only method declarations (default methods allowed in C# 8+)
+Fields,Can have fields,Cannot have fields
+Multiple Inheritance,Single inheritance only,Can be implemented by multiple classes
+Constructors,Can have constructors,Cannot have constructors
